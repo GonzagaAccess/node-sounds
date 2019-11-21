@@ -1,0 +1,19 @@
+{
+  "name": "@gonzaga-access/sounds",
+  "version": "0.0.0",
+  "description": "Play sounds inside of you application to make it more accessible!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzagaAccess/node-sounds.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GonzagaAccess/node-sounds/issues"
+  },
+  "homepage": "https://github.com/GonzagaAccess/node-sounds#readme"
+}
