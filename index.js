@@ -1,3 +1,5 @@
+const accessibility = require('./lib/accessibility')
+
 module.exports = {
-  defaultSound: () => throw new Error('Not implemented yet :(')
+  accessibility
 }
