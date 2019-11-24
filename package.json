@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GonzagaAccess/node-sounds/issues"
   },
-  "homepage": "https://github.com/GonzagaAccess/node-sounds#readme"
+  "homepage": "https://github.com/GonzagaAccess/node-sounds#readme",
+  "dependencies": {
+    "play-sound": "^1.1.3"
+  }
 }
